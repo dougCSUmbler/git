@@ -2,4 +2,4 @@
     Douglas
 Esse é o repositório para o desafio de Git da Umbler
 
-Nome: Danielly Brito "(Beste Mother, ever!)"
+Nome: Danielly Brito (Best Mother, ever!)
